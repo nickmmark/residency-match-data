@@ -1,4 +1,4 @@
-# residency-match-data
+# residency-match-sankey
 
 ### 📊 Purpose
 An interactive Sankey diagram visualizing US residency applicants and outcomes from the 2025 NRMP Main Match.
