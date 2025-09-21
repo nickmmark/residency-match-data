@@ -1,5 +1,8 @@
 # residency-match-sankey
 
+![interactive Sankey diagram showing US residency match rates](https://github.com/nickmmark/residency-match-sankey/blob/main/residency_applicants_figure.jpg)
+
+
 ### 📊 Purpose
 An interactive Sankey diagram visualizing US residency applicants and outcomes from the 2025 NRMP Main Match.
 
