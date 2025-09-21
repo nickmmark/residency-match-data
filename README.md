@@ -11,8 +11,8 @@ Tooltips display match rates for each applicant group and the percent/absolute c
 
 
 ### 🏃 How to run
-Either click [here]() to load the page or do the following:
-1. Clone or download this repo
+Either click [here](https://nickmmark.github.io/residency-match-sankey/) to load the page or do the following:
+1. Clone/download this repo
 2. Install dependencies
 ```bash
 pip install pandas plotly
