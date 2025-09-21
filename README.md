@@ -48,3 +48,5 @@ us_residency_applicants_2025_sankey.html
 | Filled          | 37,667 | 94.1%   |
 | Unfilled        | 2,374  | 5.9%    |
 
+### References
+* [National Residency Matching Program (NRMP) Data 2025](https://www.nrmp.org/wp-content/uploads/2025/03/Advance_Data_Tables_2025.pdf)
