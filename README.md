@@ -12,6 +12,8 @@ An interactive Sankey diagram visualizing US residency applicants and outcomes f
 
 Tooltips display match rates for each applicant group and the percent/absolute counts of positions filled.
 
+You can either look at all residents or filter by specific residency. (PGY-1 data only)
+
 
 ### 🏃 How to run
 Either click [here](https://nickmmark.github.io/residency-match-sankey/) to load the page or do the following:
@@ -31,7 +33,6 @@ us_residency_applicants_2025_sankey.html
 
 ### 📖 Source data 
 * Data is from the National Residency Matching Program (NRMP) for 2025
-* Overall data
 
 | Applicant Group            | Applicants | Matched | Unmatched | Match Rate |
 |----------------------------|------------|---------|-----------|------------|
@@ -102,5 +103,5 @@ us_residency_applicants_2025_sankey.html
 
 
 
-### References
+### 📄 References
 * [National Residency Matching Program (NRMP) Data 2025](https://www.nrmp.org/wp-content/uploads/2025/03/Advance_Data_Tables_2025.pdf)
