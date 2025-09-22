@@ -31,6 +31,7 @@ us_residency_applicants_2025_sankey.html
 
 ### 📖 Source data 
 * Data is from the National Residency Matching Program (NRMP) for 2025
+* Overall data
 
 | Applicant Group            | Applicants | Matched | Unmatched | Match Rate |
 |----------------------------|------------|---------|-----------|------------|
@@ -47,6 +48,9 @@ us_residency_applicants_2025_sankey.html
 | Offered         | 40,041 | 100%    |
 | Filled          | 37,667 | 94.1%   |
 | Unfilled        | 2,374  | 5.9%    |
+
+* Data by specialty (for PGY1 applicants)
+
 
 ### References
 * [National Residency Matching Program (NRMP) Data 2025](https://www.nrmp.org/wp-content/uploads/2025/03/Advance_Data_Tables_2025.pdf)
