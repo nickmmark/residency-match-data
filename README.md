@@ -49,7 +49,7 @@ us_residency_applicants_2025_sankey.html
 | Filled          | 37,667 | 94.1%   |
 | Unfilled        | 2,374  | 5.9%    |
 
-* Specialty specific match data
+
 | Specialty                             |   Applicants_US_MD |   Matches_US_MD |   Applicants_US_DO |   Matches_US_DO |   Applicants_US_IMG |   Matches_US_IMG |   Applicants_NonUS_IMG |   Matches_NonUS_IMG |   Unfilled |
 |:--------------------------------------|-------------------:|----------------:|-------------------:|----------------:|--------------------:|-----------------:|-----------------------:|--------------------:|-----------:|
 | Anesthesiology                        |               1784 |            1301 |                480 |             308 |                 177 |               47 |                    221 |                  84 |          1 |
